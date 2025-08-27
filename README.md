@@ -24,7 +24,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 - Select an issue and ask to be _assigned_ to it.
 - Check existing scripts in the [projects](/projects/) directory.
 - **Star** this repository.
-- On the [python-mini-projects](https://github.com/Python-World/python-mini-projects) repo page, click the **Fork** button.
+- On the [python-mini-projects](https://github.com/barrujamisrg/my-python-project) repo page, click the **Fork** button.
     <br><img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" title="Fork image" width="400"/>
 - **Clone** your forked repository to your local machine. This button will show you the URL to run.
     <br><img src="https://docs.github.com/assets/images/help/repository/code-button.png" title="Code button" width="400"/>
@@ -58,11 +58,11 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
     ```
 
 - Create a folder in
-  [projects directory](https://github.com/Python-World/python-mini-projects/tree/master/projects)
+  [projects directory](https://github.com/barrujamisrg/my-python-project/tree/master/projects)
   according to issue name.
 - Write your code and add to the respective folder in the projects directory, locally.
 - Don't forget to add a `README.md` in your folder, according to the
-   [README_TEMPLATE.](https://github.com/Python-World/python-mini-projects/blob/master/README_TEMPLATE.md)
+   [README_TEMPLATE.](https://github.com/barrujamisrg/my-python-project/blob/master/README_TEMPLATE.md)
 - Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
     ```bash
@@ -85,7 +85,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
 ## README Template for scripts
 
-[README Template](https://github.com/Python-World/python-mini-projects/blob/master/README_TEMPLATE.md)
+[README Template](https://github.com/barrujamisrg/my-python-project/blob/master/README_TEMPLATE.md)
 
 ## Connect On Social media
 
@@ -198,3 +198,4 @@ SR No   | Project | Author
 101 | [Whatsapp Bot](https://github.com/Python-World/python-mini-projects/tree/master/projects/whatsapp_Bot)| [urmil89](https://github.com/urmil89)
 102 | [Zip Bruter](https://github.com/Python-World/python-mini-projects/tree/master/projects/Zip_Bruter) | [Erdoğan YOKSUL](https://www.github.com/eredotpkfr)
 103 | [CountDown Timer](https://github.com/Python-World/python-mini-projects/tree/master/projects/Countdown_timer) | [Japneet Kalra](https://github.com/japneetsingh035)
+
